@@ -6,6 +6,9 @@
         }, {
             "folderName": "triple-grpc",
             "title": "dubbogo3 基于triple协议的RPC调用"
+        },{
+            "folderName": "go-java",
+            "title": "dubbogo 基于Dubbo协议的go-java互通"
         }
 
     ],
